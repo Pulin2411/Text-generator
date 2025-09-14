@@ -1,4 +1,3 @@
-Here is a clear, copy‑ready README with installation and usage instructions tailored to the attached FastAPI app that calls the Gemini generateContent API. Replace the hardcoded key in app.py with an environment variable before publishing.[1][2][3]
 
 ### Project name
 
